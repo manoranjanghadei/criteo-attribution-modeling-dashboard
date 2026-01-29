@@ -1,11 +1,11 @@
-# 🎯 CRITEO ATTRIBUTION MODELING - PG-DBDA PROJECT
+# CRITEO ATTRIBUTION MODELING - PG-DBDA PROJECT
 
 ## Quick Start Guide
 
 ### 📋 **What This Project Does**
 Predicts which online advertising impressions will generate revenue for Criteo using machine learning.
 
-### 🚀 **How to Run (3 Simple Steps)**
+### **How to Run (3 Simple Steps)**
 
 1. **Explore the Data**
    ```bash
@@ -31,20 +31,20 @@ Predicts which online advertising impressions will generate revenue for Criteo u
    - Compares performance
    - Selects best model
 
-### 📊 **Results Summary**
+### **Results Summary**
 - **Best Model**: LightGBM
 - **Performance**: 95.35% ROC-AUC
 - **Accuracy**: 63.8% precision
 - **Speed**: Under 1 second training
 
-### 📁 **Key Files**
+### **Key Files**
 - `PROJECT_DOCUMENTATION.md` - Complete project documentation
 - `1_eda_analysis.py` - Data exploration
 - `2_feature_engineering_production_ready.py` - Feature creation
 - `criteo_final_4models.py` - Model training
 - `pcb_dataset_final.csv` - Original dataset
 
-### 🎓 **For Your PG-DBDA Project**
+### **For Your PG-DBDA Project**
 This project demonstrates:
 - Complete ML pipeline
 - Real-world dataset handling
@@ -52,11 +52,12 @@ This project demonstrates:
 - Business problem solving
 - Professional documentation
 
-### 💼 **Business Impact**
+### **Business Impact**
 - Optimize advertising spend
 - Predict revenue opportunities
 - Improve bidding strategies
 - Reduce wasted ad budget
 
 ---
-**Ready for your PG-DBDA submission! 🚀**
+
+**Ready for your PG-DBDA submission! **
